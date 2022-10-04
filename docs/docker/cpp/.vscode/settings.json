@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.cppStandard": "c++20",
+    "code-runner.executorMap": {
+        "cpp": "clear && cd $dir && g++ $fileName -o /workspaces/cpp/bin/$fileNameWithoutExt && /workspaces/cpp/bin/$fileNameWithoutExt"
+    },
+    "code-runner.runInTerminal": true
+}
