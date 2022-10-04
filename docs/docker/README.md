@@ -1,6 +1,6 @@
 # Docker と VSCode で C++ 開発環境を構築しよう
 
-このリポジトリには，[コンテナ](https://jpn.nec.com/cloud/service/container/about.html)開発環境を構築するためのコンフィグファイルが含まれています．なお，簡単にコンテナ開発環境を始めるための **Cpp Devcontainer Strat Kit** （`cpp` フォルダ）も用意しています．このマニュアルは Cpp Devcontainer Strat Kit を使ってコンテナ開発環境を構築・使用する方法を紹介します．最新の Cpp Devcontainer Strat Kit は，リポジトリホームページの [Release](https://github.com/dleoliu/gsd20080-pub/releases) よりダウンロードできます．
+このリポジトリには，[コンテナ](https://jpn.nec.com/cloud/service/container/about.html)開発環境を構築するためのコンフィグファイルが含まれています．なお，簡単にコンテナ開発環境を始めるための **Cpp Devcontainer Kit** （`cpp` フォルダ）も用意しています．このマニュアルは Cpp Devcontainer Kit を使ってコンテナ開発環境を構築・使用する方法を紹介します．最新の Cpp Devcontainer Kit は，リポジトリホームページの [Release](https://github.com/dleoliu/gsd20080-pub/releases) よりダウンロードできます．
 
 コンテナ開発環境を使えば，講師または TA と同じ環境でプログラミングできます．なお，Microsoft 社が開発したエディタ [VSCode](https://code.visualstudio.com/) はを使えば，より簡単にコンテナ開発環境を構築・使用できます．
 
@@ -77,7 +77,7 @@ VSCode を使えば，コンテナ開発環境の構築と使用ができます�
 
 ## コンテナ開発環境を始める
 
-1. リポジトリホームページの [**Release**](https://github.com/dleoliu/gsd20080-pub/releases) より最新の（latest）Cpp Kitをダウンロードし，解凍します．
+1. リポジトリホームページの [**Release**](https://github.com/dleoliu/gsd20080-pub/releases) より最新の（latest）Cpp Devcontainer Kitをダウンロードし，解凍します．
 
     これで `cpp` フォルダが得られます．`cpp` フォルダに VSCode でコンテナ開発環境を構築・使用するためのコンフィグファイルが入っています．macOS ではこれらのファイルが Finder から見えないですが，VSCode で `cpp` フォルダを開ければ見えます．
 
